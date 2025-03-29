@@ -7,4 +7,4 @@ random_permutation(L,L2) %permutar lista grande
 % random_permutation([1,2,3,4,5],L2) % L2=[3,1,4,5,2]
 
 member(X,L) %pertenencia de un elemento a una lista
-% member(3,[1,2,3,4]) % true
+% member(3,[1,2,3,4]) % true                
